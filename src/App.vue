@@ -86,7 +86,7 @@
             </div>
            
         </div>
-        <div class="w-full lg:w-6/12 mt-2 flex pb-96">
+        <div class="w-full lg:w-6/12 mt-2  pb-96 hidden sm:hidden md:hidden lg:flex ">
             <div id="Group_93">
               <svg class="Ellipse_6">
                 <ellipse id="Ellipse_6" rx="98" ry="97.5" cx="98" cy="97.5">
